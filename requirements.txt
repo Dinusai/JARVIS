@@ -1,0 +1,12 @@
+pyttsx3
+SpeechRecognition
+pyaudio
+openai
+pyautogui
+psutil
+selenium
+webdriver-manager
+opencv-python
+numpy
+pytesseract
+pillow
